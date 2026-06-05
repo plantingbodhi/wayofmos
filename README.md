@@ -14,7 +14,9 @@ The framework is in **[WAY-OF-MOS.md](./WAY-OF-MOS.md)** — one page, the whole
 
 ## License
 
-This framework is licensed under **[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](./LICENSE)**.
+Copyright © 2026 Richard Perryer, known as Bodhi Sacha.
+
+The Way of MOS framework is licensed under **[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](./LICENSE)** — see [LICENSE](./LICENSE) for the full legal text.
 
 **You are free to:**
 - **Share** — copy and redistribute in any medium or format
@@ -24,7 +26,11 @@ This framework is licensed under **[Creative Commons Attribution-ShareAlike 4.0 
 - **Attribution** — give appropriate credit, link to the license, indicate if changes were made.
 - **ShareAlike** — if you build on the framework, keep your version under the same open terms. The commons stays a commons.
 
-See [LICENSE](./LICENSE) for full terms and the distinction between what is open (the framework) and what is proprietary (The Sage brand and products).
+### What's open, and what's not
+
+**Open (CC BY-SA 4.0):** the Way of MOS framework — the Mystery / Odyssey / Sanctity aspects, the ternary scale, the coherence formula, the twenty-seven states (the MOS Cube), the practice, the written articulation, and the documents in this repository.
+
+**Proprietary (not covered by this license):** "The Sage" and the product names Quest, Forge, Directory, Gardens, Community (trademarks); the Sage AI, sageBrain, sageCore, and all proprietary code and implementations; the wayofmos.com website; and the visual assets, logos, and brand identity associated with The Sage. Anyone may teach and build with the framework — with attribution and on the same open terms — but the brand and products require separate permission.
 
 ---
 
