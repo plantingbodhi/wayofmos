@@ -67,7 +67,7 @@ The relationship is analogous to WordPress (the open framework) and WordPress.co
 
 ## Lineage
 
-The Way of MOS rests in a much longer lineage of contemplative traditions. It attempts to honor what is universal across many wisdom paths — Mystery, Odyssey, and Sanctity have been independently named, in different vocabularies, by every major contemplative tradition. The Way of MOS is one articulation among many. It claims to be useful, not unique.
+The Way of MOS rests in a much longer lineage of contemplative traditions. It attempts to honor what is universal across many wisdom paths — many traditions have named a threefold pattern in their own vocabularies. The Way of MOS is one articulation among many. It claims to be useful, not unique.
 
 ---
 

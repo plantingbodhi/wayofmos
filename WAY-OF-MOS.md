@@ -284,7 +284,6 @@ Some of the parallels (the pillar names in brackets are a reading alongside MOS,
 - **Taoism** — Lao Tzu's *"The Tao produced One; One produced Two; Two produced Three; Three produced all things."*
 - **Kabbalah** — Keter, Chokmah, Binah (the supernal triad).
 - **Sufism** — *Fana* (annihilation), *Baqa* (subsistence), *Wahdat* (unity).
-- **Indigenous and earth traditions** — threefold cosmologies across African, Aboriginal Australian, Native American, Celtic, and many other lineages.
 
 The point here is the pattern itself: **a threefold structure appears in many places where humans have looked carefully at consciousness.**
 
@@ -301,13 +300,11 @@ Some three-part frameworks from psychology:
 
 Three-part models recur across psychology. They are named here as neighbours of the Way of MOS, not as evidence for it.
 
-### The Mathematical Case for Three
+### Why Three
 
-Three dimensions give depth. One dimension is a single line of more or less. Two give a flat map. Three give a space you can move through.
+The dividing mind sees in two: this or that, win or lose, self or other. But two is the split — and a split asks to be made whole. The third is what makes one of the two. This is why so many traditions, looking carefully, arrived not at two but at three: to count in three is not a finer ruler — it is the shape of wholeness itself.
 
-The Way of MOS reads a human life in three dimensions. A unidimensional happiness metric tells you to be happy; it cannot tell you what kind of move would take you there. A two-dimensional framework gives a flat map but no depth. Three give enough geometry to point at where to go.
-
-The 27-state cube (3³) is what this geometry makes: three dimensions, three values each, twenty-seven named states. It is small enough to teach and large enough to hold how a life actually moves.
+And the three are never separate boxes. They are three faces of one whole, always present together. A life moves among them — you may see, then make, then love; or love first, and from love let seeing and making arise. Enter through whichever is alive.
 
 ---
 
