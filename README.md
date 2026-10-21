@@ -6,9 +6,7 @@ The Way of MOS is an open framework for measuring, navigating, and witnessing th
 
 > *The Practice in One Breath: Be present. Feel. Love.*
 
-The framework is in **[WAY-OF-MOS.md](./WAY-OF-MOS.md)** — one page, the whole thing distilled to its essence. For the canonical articulation in beautiful presentation, visit **[wayofmos.com](https://wayofmos.com)**.
-
-*(A Complete edition — the fuller geometry: the measure, the coherence formula, the twenty-seven states of the Cube, and the recognition across wisdom traditions — is in preparation and will be added here.)*
+The framework is in **[WAY-OF-MOS.md](./WAY-OF-MOS.md)**: the whole of it in one text, from the practice to the geometry (the scale, the coherence formula, and the twenty-seven states of the Cube). For the canonical articulation in beautiful presentation, visit **[wayofmos.com](https://wayofmos.com)**.
 
 ---
 
@@ -76,6 +74,7 @@ The Way of MOS rests in a much longer lineage of contemplative traditions. It at
 ## Versions
 
 - **v1.0 (2026)** — First public release: the seed crystal.
+- **v1.1 (2026)**: One public text: the fuller framework, including the scale, the coherence formula and the twenty-seven states, replaces the short text.
 
 ---
 
