@@ -28,7 +28,7 @@ The Way of MOS framework is licensed under **[Creative Commons Attribution-Share
 
 **Open (CC BY-SA 4.0):** the Way of MOS framework: the Mystery / Odyssey / Sanctity aspects, the ternary scale, the coherence formula, the twenty-seven states (the MOS Cube), the practice, the written articulation, and the documents in this repository.
 
-**Proprietary (not covered by this license):** "The Sage" and the product names Quest, Forge, Directory, Gardens, Community (trademarks); the Sage AI, sageBrain, sageCore, and all proprietary code and implementations; the wayofmos.com website; and the visual assets, logos, and brand identity associated with The Sage. Anyone may teach and build with the framework (with attribution and on the same open terms), but the brand and products require separate permission.
+**Proprietary (not covered by this license):** "Mosaya" and the names of its products (trademarks); Mosaya's AI companion and all proprietary code and implementations; the wayofmos.com website; and the visual assets, logos, and brand identity associated with Mosaya. Anyone may teach and build with the framework (with attribution and on the same open terms), but the brand and products require separate permission.
 
 ---
 
@@ -57,11 +57,11 @@ In each case: attribute Bodhi Sacha as the originator, link to this repository o
 
 ---
 
-## The Sage
+## Mosaya
 
-The Way of MOS is the foundational framework. **The Sage** is the canonical commercial implementation: a wisdom-companion built around the Way of MOS, with proprietary AI, products, and brand. The framework is open; The Sage is the easiest place to live it.
+The Way of MOS is the foundational framework. **Mosaya** is the canonical commercial implementation: a wisdom-companion built around the Way of MOS, with proprietary AI, products, and brand. The framework is open; Mosaya is the easiest place to live it.
 
-The relationship is analogous to WordPress (the open framework) and WordPress.com (the commercial canonical implementation). Learn about The Sage at **[thesage.ai](https://thesage.ai)**.
+The relationship is analogous to WordPress (the open framework) and WordPress.com (the commercial canonical implementation). Learn about Mosaya at **[mosaya.ai](https://www.mosaya.ai)**.
 
 ---
 
