@@ -14,21 +14,21 @@ The framework is in **[WAY-OF-MOS.md](./WAY-OF-MOS.md)**: the whole of it in one
 
 Copyright © 2026 Richard Perryer, known as Bodhi Sacha.
 
-The Way of MOS framework is licensed under **[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](./LICENSE)** — see [LICENSE](./LICENSE) for the full legal text.
+The Way of MOS framework is licensed under **[Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](./LICENSE)**. See [LICENSE](./LICENSE) for the full legal text.
 
 **You are free to:**
-- **Share** — copy and redistribute in any medium or format
-- **Adapt** — remix, transform, and build upon the material, for any purpose, even commercially
+- **Share**: copy and redistribute in any medium or format
+- **Adapt**: remix, transform, and build upon the material, for any purpose, even commercially
 
 **Under these terms:**
-- **Attribution** — give appropriate credit, link to the license, indicate if changes were made.
-- **ShareAlike** — if you build on the framework, keep your version under the same open terms. The commons stays a commons.
+- **Attribution**: give appropriate credit, link to the license, indicate if changes were made.
+- **ShareAlike**: if you build on the framework, keep your version under the same open terms. The commons stays a commons.
 
 ### What's open, and what's not
 
-**Open (CC BY-SA 4.0):** the Way of MOS framework — the Mystery / Odyssey / Sanctity aspects, the ternary scale, the coherence formula, the twenty-seven states (the MOS Cube), the practice, the written articulation, and the documents in this repository.
+**Open (CC BY-SA 4.0):** the Way of MOS framework: the Mystery / Odyssey / Sanctity aspects, the ternary scale, the coherence formula, the twenty-seven states (the MOS Cube), the practice, the written articulation, and the documents in this repository.
 
-**Proprietary (not covered by this license):** "The Sage" and the product names Quest, Forge, Directory, Gardens, Community (trademarks); the Sage AI, sageBrain, sageCore, and all proprietary code and implementations; the wayofmos.com website; and the visual assets, logos, and brand identity associated with The Sage. Anyone may teach and build with the framework — with attribution and on the same open terms — but the brand and products require separate permission.
+**Proprietary (not covered by this license):** "The Sage" and the product names Quest, Forge, Directory, Gardens, Community (trademarks); the Sage AI, sageBrain, sageCore, and all proprietary code and implementations; the wayofmos.com website; and the visual assets, logos, and brand identity associated with The Sage. Anyone may teach and build with the framework (with attribution and on the same open terms), but the brand and products require separate permission.
 
 ---
 
@@ -59,7 +59,7 @@ In each case: attribute Bodhi Sacha as the originator, link to this repository o
 
 ## The Sage
 
-The Way of MOS is the foundational framework. **The Sage** is the canonical commercial implementation — a wisdom-companion built around the Way of MOS, with proprietary AI, products, and brand. The framework is open; The Sage is the easiest place to live it.
+The Way of MOS is the foundational framework. **The Sage** is the canonical commercial implementation: a wisdom-companion built around the Way of MOS, with proprietary AI, products, and brand. The framework is open; The Sage is the easiest place to live it.
 
 The relationship is analogous to WordPress (the open framework) and WordPress.com (the commercial canonical implementation). Learn about The Sage at **[thesage.ai](https://thesage.ai)**.
 
@@ -67,17 +67,17 @@ The relationship is analogous to WordPress (the open framework) and WordPress.co
 
 ## Lineage
 
-The Way of MOS rests in a much longer lineage of contemplative traditions. It attempts to honor what is universal across many wisdom paths — many traditions have named a threefold pattern in their own vocabularies. The Way of MOS is one articulation among many. It claims to be useful, not unique.
+The Way of MOS rests in a much longer lineage of contemplative traditions. It attempts to honor what is universal across many wisdom paths. Many traditions have named a threefold pattern in their own vocabularies. The Way of MOS is one articulation among many. It claims to be useful, not unique.
 
 ---
 
 ## Versions
 
-- **v1.0 (2026)** — First public release: the seed crystal.
+- **v1.0 (2026)**: First public release: the seed crystal.
 - **v1.1 (2026)**: One public text: the fuller framework, including the scale, the coherence formula and the twenty-seven states, replaces the short text.
 
 ---
 
 *The Practice in One Breath: Be present. Feel. Love.*
 
-— Bodhi Sacha
+Bodhi Sacha
